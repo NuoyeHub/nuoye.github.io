@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to Nuoye blog
 
-You can use the [editor on GitHub](https://github.com/NuoyeHub/nuoye.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+这是一个测试博客，还没有搭建完成。      
+你可以点击 [Nuoye GitHub](https://github.com/NuoyeHub) 来访问我的Github.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**非常欢迎通过`issues`提供建议~**
+
+## 接下来我会尝试在阿里云ECS上搭建一个博客
+应该功能会更齐全。
 
 ### Markdown
 
